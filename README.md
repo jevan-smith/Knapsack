@@ -13,7 +13,7 @@ Made by: Jevan Smith, and Isaac Davidson
 - matplotlib.patches
 
 ## Expected Outputs Below
-:exclamation: Note to use run 'Task 3', matplotlib must be installed!
+:exclamation: Note to use 'Task 3', matplotlib must be installed!
 Below is our programs output
 <pre>
 ==============================
