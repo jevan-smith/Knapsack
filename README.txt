@@ -1,29 +1,21 @@
-----------------------------------------------------------
-.:GROUP MEMBERS:.
-----------------------------------------------------------
+## Authors
 Made by: Jevan Smith, and Isaac Davidson
 
+## Project Goals
+1. Solve the knapsack problem using dynamic programming and "greedy" appoach. 
+2. Compare and contrast with space efficient variant of dynamic programming and heap-based implementation of "greedy" approach.
 
-----------------------------------------------------------
-.:REQUIREMENTS:.
-----------------------------------------------------------
+## Requirements
 - Built using python 3.7, PyCharm (Version 2018.3.5) is recommended
 - time, and math
 - matplotlib is required (Used Version 3.0.2)
--- matplotlib.pyplot
--- matplotlib.patches
+- matplotlib.pyplot
+- matplotlib.patches
 
-
-----------------------------------------------------------
-.:EXPECTED OUTPUTS BELOW:.
-----------------------------------------------------------
-*Note to use run 'Task 3', matplotlib must be installed!
+## Expected Outputs Below
+:exclamation: Note to use run 'Task 3', matplotlib must be installed!
 Below is our programs output
-
----------------------------------------------
-.:TEST PROGRAM OUTPUT:.
----------------------------------------------
-
+<pre>
 ==============================
 MENU:
 ==============================
